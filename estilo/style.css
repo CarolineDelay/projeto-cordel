@@ -15,7 +15,7 @@
 
 html, body {
     
-    min-height: 60vw;
+    min-height: 110vh;
     background-color: darkgrey;
     font-family: var(--fonte1);
 
